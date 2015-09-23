@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+a)You create a new one. To start tracking the files.
