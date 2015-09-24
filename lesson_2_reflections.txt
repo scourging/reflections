@@ -10,3 +10,6 @@ a) Cause you can check what you have before making the commit.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 a) If you're experimenting with new features or a different language. It will keep them seperate from each other.
+
+How do the diagrams help you visualize the branch structure?
+a)By mapping out the commits of each branch.
