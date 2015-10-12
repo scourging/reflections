@@ -13,3 +13,6 @@ a) If you're experimenting with new features or a different language. It will ke
 
 How do the diagrams help you visualize the branch structure?
 a)By mapping out the commits of each branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+a)The result of merging two branches together is combining the work of two separate branches to have just one. To present the process of merging the two branches.
